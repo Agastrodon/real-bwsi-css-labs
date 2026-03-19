@@ -14,3 +14,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+print("I like winter and i dont like peanut butter")
